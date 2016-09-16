@@ -1,4 +1,4 @@
-# EC602
+# EC601A1
 
 ## Authors
 - Brian Appleton appleton@bu.edu
