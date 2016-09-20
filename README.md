@@ -6,7 +6,8 @@
 
 ## Repository contents
 - README.md: What you're reading now
-- Trello.jpg: Screenshot of Trello workspace
+- HW1-Trello.png: Screenshot of Trello workspace
+- BurnDownChart.png: Screenshot of Trello burndown chart
 - HW1: Directory containing the local files required to run our software
 
 ## Project description
@@ -24,7 +25,7 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 
 ### Prerequisites
 - Python 3.5.2 or later
-- OpenCV version 3.1.0 or later (including all of its dependencies)
+- OpenCV version 3.1.0 or later [including all of its dependencies] (http://docs.opencv.org/3.0-last-rst/doc/tutorials/introduction/linux_install/linux_install.html)
 - Git version 2.7.4 or later
 
 ### Terminal commands to download and run this software
