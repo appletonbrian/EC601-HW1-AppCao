@@ -22,6 +22,23 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 
 ## Build instructions
 
+### Prerequisites
+- Make sure your machine is running Python 3.5.2 or later
+- Install OpenCV version 3.1.0 or later
 
+### Steps:
+Clone this repository to your maching using SSH:
+```
+git clone git@github.com:appletonbrian/EC601-HW1-AppCao.git
+```
+Navigate to the HW1 directory:
+```
+$ cd HW1/
+```
+Run our shell script:
+```
+$ bash RunModifiedFaceDetect.sh
+```
+Bravo! Brian's face and smile would be captured in this video.
 
 
