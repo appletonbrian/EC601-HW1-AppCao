@@ -29,7 +29,7 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 - Git version 2.7.4 or later
 
 ### Terminal commands to download and run this software
-Clone this repository to your maching using SSH:
+Clone this repository to your machine using SSH:
 ```
 $ git clone git@github.com:appletonbrian/EC601-HW1-AppCao.git
 ```
@@ -41,6 +41,6 @@ Run our shell script:
 ```
 $ bash RunModifiedFaceDetect.sh
 ```
-Bravo! [Brian's face and smile will be captured] (http://imgur.com/sHm06gr) in this video.
+Bravo! [Brian's face and smile will be captured] (http://i.imgur.com/sHm06gr.png) in this video.
 
 
