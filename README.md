@@ -35,7 +35,7 @@ $ git clone git@github.com:appletonbrian/EC601-HW1-AppCao.git
 ```
 Navigate to the HW1 directory:
 ```
-$ cd HW1/
+$ cd EC601-HW1-AppCao/HW1/
 ```
 Run our shell script:
 ```
