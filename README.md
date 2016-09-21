@@ -23,7 +23,7 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 
 ## Build instructions
 
-### Prerequisites
+### Pre-requisites
 - Python 3.5.2 or later
 - OpenCV version 3.1.0 or later [including all of its dependencies] (http://docs.opencv.org/3.0-last-rst/doc/tutorials/introduction/linux_install/linux_install.html)
 - Git version 2.7.4 or later
